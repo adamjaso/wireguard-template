@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.conf
+*.pub
+*.key
+.envvars
+private
+public
